@@ -6,11 +6,6 @@ A project leverages historical news and stock price data and the latest news and
 ![Methodology](https://github.com/manyuzhang1996/Stock-Price-Prediction-with-News/assets/111943220/69f5d44c-04eb-43f8-bbac-79dc72df1b2f)
 
 
-## Tech Stack
-* Python
-* TensorFlow: https://github.com/tensorflow/tensorflow
-
-
 ## Data Source
 The historical news and stock price data are from Kaggle: https://www.kaggle.com/datasets/deepakjoshi2k/yahoo-stock-prediction-by-news?select=NEWS_YAHOO_stock_prediction.csv
 
@@ -58,9 +53,4 @@ git clone https://github.com/manyuzhang1996/FAANG-Stock-Price-Prediction-under-L
 cd FAANG-Stock-Price-Prediction-under-Layoffs-and-AI-Boost
 ```
 
-## Contact Authors
-Manyu Zhang (zhangmanyuzmy@gmail.com)
 
-Hui Yun
-
-Maria Hovhannisyan
